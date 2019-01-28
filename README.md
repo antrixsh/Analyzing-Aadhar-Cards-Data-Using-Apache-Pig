@@ -12,10 +12,10 @@ https://goo.gl/DbuFKb
 # Data Set Description:
 The data set consists of the following fields.
 
-# State: This field consists of the state names from all over India
-# City: This field consists of city names in all states
-# Approved: This fields consists of the total count of approved cards in numbers
-# Rejected: This field consists of the total count of rejected cards in numbers
+State: This field consists of the state names from all over India
+City: This field consists of city names in all states
+Approved: This fields consists of the total count of approved cards in numbers
+Rejected: This field consists of the total count of rejected cards in numbers
 
 # Codes and Explanation:
 First we need to create a directory in HDFS. Creating a directory called pig in hdfs.
