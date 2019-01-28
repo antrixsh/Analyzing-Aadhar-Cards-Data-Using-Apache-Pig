@@ -22,7 +22,7 @@ First we need to create a directory in HDFS. Creating a directory called pig in 
 ![capture](https://user-images.githubusercontent.com/26787806/51824122-6eabb200-2307-11e9-8306-10672bd896a0.PNG)
 
 ## Putting DataFile into HDFS by Using below command
-$bin/hdfs dfs -put <Input File Local Path...> /<Input File Destination file in HDFS>
+$bin/hdfs dfs -put [Input File Local Path...] /[Input File Destination file in HDFS]
 
 # Usecase1:
 In this use case we are finding the total number of cards approved by States.
